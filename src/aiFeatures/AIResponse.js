@@ -40,7 +40,7 @@ function cleanApiResponse(text) {
         return setAiResponse(cleanApiResponse(chatCompletion.choices[0].message.content.trim()));
     } catch (err) {
         console.error(err.message)
-        let techError = "Either Owner of this project have exceeded his monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits."
+        let techError = "Either Owner of this project have exceeded his monthly included credits for Inference Providers."
         return setAiResponse(`${techError}\n OR check internet Connection`)
     }
 
