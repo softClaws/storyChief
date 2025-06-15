@@ -12,7 +12,7 @@ export const generateStoryPrompt =(data)=>{
     prompt: i want you to write a story about how a lost hunter in an amazon forest got lost and discovered a new village, he later found the love of his life and the lived happily ever after
 
    
-title: Whispers of the Amazon\n
+title: Whispers of the Amazon.
 
 story: The sun hung low in the sky, casting a golden hue over the thick emerald canopy of the Amazon rainforest. Birds chirped in wild harmony, and the air buzzed with life. Deep within this living, breathing jungle was Kael, a seasoned hunter from the edge of the forest, known for his unmatched tracking skills and quiet bravery.
 
@@ -37,7 +37,7 @@ They lived, as only true soulmates do—happily ever after.
 ###
 prompt: about a girl named Adele whose parent moved to a new city which she didn't like but later fell in love with a the son of a fruit seller
     
-title: Adele and the City of Surprises\n
+title: Adele and the City of Surprises.
 
 story: Adele’s world turned upside down the day her parents told her they were moving. She stood frozen in disbelief, arms crossed and heart sinking.
 
