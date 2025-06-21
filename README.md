@@ -1,4 +1,4 @@
-# Project Title
+# Story Chief
 
 Story Chief, this is an AI integrated web app that generate fiction story for user. This attempt to encourage
 reading culture and allow Reader to explore there imagination
