@@ -15,7 +15,7 @@ reading culture and allow Reader to explore there imagination
 ## 📦 Tech Stack
 
 - Frontend: React, HTML, CSS, HuggingFace Inference API
-- model: OpenAI gpt2
+- model: HuggingFaceTB/SmolLM3-3B
 
 ## ⚙️ Installation
 

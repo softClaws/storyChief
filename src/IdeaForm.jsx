@@ -16,9 +16,6 @@ export const IdeaForm = ({handleForm}) => {
       max-w-2/3
       text-center
       font-playwright
-      
-      
-
       "
     // required
       name="userStory"/>
